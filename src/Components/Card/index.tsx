@@ -7,9 +7,9 @@ interface contentProps{
 
 export default function Card({children}:contentProps) {
  return (
-   <div className="bg-bgCard flex flex-row justify-between h-72 w-60 
-   mb-5 p-4 hover:scale-110 transition-all duration-500 
-   hover:translate-x-6 rounded-lg drop-shadow-md shadow-black cursor-pointer">
+   <div className="bg-bgCard flex flex-row justify-between h-[340px] w-64 
+   mb-5 p-4 hover:scale-110 transition-all duration-500 border
+   hover:translate-x-6 rounded-lg shadow-[6px_6px_8px_2px_#050505] cursor-pointer">
         {children}
    </div>
  );

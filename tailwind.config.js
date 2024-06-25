@@ -50,6 +50,7 @@ export default {
             glitch: 'glitch 1s infinite',
             glitchTop: 'glitchTop 1s linear infinite',
             glitchBottom: 'glitchBottom 1.5s linear infinite',
+            
           },
         
           
