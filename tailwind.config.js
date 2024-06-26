@@ -22,6 +22,7 @@ export default {
           backgroundColor: {
             'background': '#121214',
             'bgCard': '#1F1F24',
+          
           },
           
           keyframes: {
